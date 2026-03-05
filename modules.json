@@ -1,0 +1,52 @@
+[
+  {
+    "module_code": "mgt2_5",
+    "module_label": "MGT 2.5 - Business Model Evaluation",
+    "module_title": "Business Model Evaluation",
+    "module_slug": "business_model_evaluation",
+    "app_code": "mgt2",
+    "app_label": "MGT 2 - Business Model Design",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt2_3",
+    "module_label": "MGT 2.3 - Cost Structure Design",
+    "module_title": "Cost Structure Design",
+    "module_slug": "cost_structure_design",
+    "app_code": "mgt2",
+    "app_label": "MGT 2 - Business Model Design",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt2_4",
+    "module_label": "MGT 2.4 - Operating Model Structuring",
+    "module_title": "Operating Model Structuring",
+    "module_slug": "operating_model_structuring",
+    "app_code": "mgt2",
+    "app_label": "MGT 2 - Business Model Design",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt2_2",
+    "module_label": "MGT 2.2 - Revenue Model Structuring",
+    "module_title": "Revenue Model Structuring",
+    "module_slug": "revenue_model_structuring",
+    "app_code": "mgt2",
+    "app_label": "MGT 2 - Business Model Design",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  },
+  {
+    "module_code": "mgt2_1",
+    "module_label": "MGT 2.1 - Value Proposition Definition",
+    "module_title": "Value Proposition Definition",
+    "module_slug": "value_proposition_definition",
+    "app_code": "mgt2",
+    "app_label": "MGT 2 - Business Model Design",
+    "bundle_code": "mgt",
+    "source_md_path": "doc/rnd/plugs/mgt/mgt1.md"
+  }
+]
